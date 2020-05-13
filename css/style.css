@@ -1,0 +1,48 @@
+*
+{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+html,body
+{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+line-height 1.7rem;
+}
+
+a
+{
+text-decoration: none;
+color: rgb(167, 101, 230);
+}
+
+h1,h2,h3
+{
+padding-bottom: 20px;
+}
+
+p
+{
+margin: 10px 0;
+}
+
+#navbar
+{
+background: #333;
+color: #fff;
+overflow:auto ;
+}
+#navbar a{
+color:#fff ;
+}
+#navbar h1
+{
+float: left;
+padding-top: 0%;
+}
+#navbar ul
+{
+list-style: none;
+float: right;
+}
